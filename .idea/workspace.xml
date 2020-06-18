@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a075f2a-49a0-4f32-9913-ea60a5d73887" name="Default Changelist" comment="" />
+    <list default="true" id="0a075f2a-49a0-4f32-9913-ea60a5d73887" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daniel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kasia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kozak/Radek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Radek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kuba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +32,13 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a075f2a-49a0-4f32-9913-ea60a5d73887" name="Default Changelist" comment="" />
+      <created>1592495386588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592495386588</updated>
+    </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
